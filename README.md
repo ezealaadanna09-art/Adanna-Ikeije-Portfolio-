@@ -70,9 +70,9 @@ Visit my online portfolio through GitHub Pages to explore my projects and profes
 
 ## Contact
 
-**Email:** your-email@example.com
+**Email:** ezealaadanna09@gmail.com
 
-**LinkedIn:** Add your LinkedIn profile link here
+**LinkedIn:** https://www.linkedin.com/in/adanna-ezeala
 
 **GitHub:** https://github.com/ezealaadanna09-art
 
